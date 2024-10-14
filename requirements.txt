@@ -1,1 +1,3 @@
-
+python-telegram-bot
+web3
+python-dotenv
